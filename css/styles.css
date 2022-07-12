@@ -1,0 +1,189 @@
+.list{ list-style: none;}
+.link{ text-decoration: none;}
+body{font-family:'Roboto',
+sans-serif; }
+/*--Components--*/
+
+/*--/Components--*/
+/*--Header--*/
+.menu-link{ font-family:'Roboto',sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color: #212121;}
+.menu-link:hover,
+.menu-link:focus{position: absolute;visibility: hidden; }
+.contact-mail{font-family: 'Roboto',sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color: #2196F3; }
+.contact-mail :hover,
+.contact-mail :focus{ position: absolute;
+visibility: hidden;}
+
+.logo-color{font-family: 'Raleway',sans-serif;
+font-weight: 700;
+font-size: 26px;
+line-height: 1,19;
+letter-spacing: 0.03em;
+
+color: #2196F3; }
+.logo-color1{ font-family: 'Raleway',sans-serif;
+font-weight: 700;
+font-size: 26px;
+line-height: 1,19;
+letter-spacing: 0.03em;
+color: #000000;}
+.contact-namber{ font-family: 'Roboto',sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+
+color: #757575;}
+.contact-namber{font-family: 'Roboto',sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color: #757575; }
+/*--/Header--*/
+
+/*--Hero--*/
+.modal-btn{ font-family: 'Roboto',sans-serif;
+font-weight: 700;
+font-size: 16px;
+line-height: 1,87;
+cursor: pointer;
+/* identical to box height, or 188% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #FFFFFF;background: #188CE8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;}
+.modal-btn:hover,
+.modal-btn:focus { position: absolute;
+visibility: hidden;}
+.hero{ background: #2F303A;}
+.main-title{font-family: 'Roboto',sans-serif;
+font-weight: 900;
+font-size: 44px;
+line-height: 1,36;
+/* or 136% */
+
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+color: #FFFFFF; }
+.menu-color{ font-family: 'Roboto',sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+
+color: #2196F3;}
+/*--/Hero--*/
+
+/*--about  --*/
+.about-title{ font-family: 'Roboto',sans-serif;
+font-weight: 700;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #212121; }
+.about-description{font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+color: #757575; }
+
+/*--/about --*/
+/*--servises--*/
+.serv-title{ font-family: 'Roboto',sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1,17;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;}
+/*--/servises--*/
+/*--our team--*/
+.our-team{
+background: #F5F4FA;}
+.our-team-title{font-family: 'Roboto',sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 1,17;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121; }
+.surname{ font-family: 'Roboto',sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1,19;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;}
+.position{ font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1,19;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #757575;}
+/*--/our team--*/
+/*--footer--*/
+.footer{ background: #2F303A;}
+.logo-color-footer{ font-family: 'Raleway',sans-serif;
+font-weight: 700;
+font-size: 26px;
+line-height: 1,19;
+letter-spacing: 0.03em;
+color: #FFFFFF;}
+.address-map{ font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+color: #FFFFFF;}
+.address-map:hover,
+.address-map:focus{ position: absolute;
+visibility: hidden;}
+.address-mail{ font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);}
+.footer-link:hover,
+.footer-link:focus{
+    position: absolute;
+    visibility: hidden;
+}
+ .address-tel{ font-family: 'Roboto',sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);}
+.address-tel:hover,
+.address-tel:focus{
+    position: absolute;
+    visibility: hidden;
+}
+/*--/footer--*/
